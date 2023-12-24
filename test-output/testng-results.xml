@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-22T14:00:39 IST" name="Default suite" finished-at="2023-12-22T14:01:43 IST" duration-ms="64280">
+    <groups>
+    </groups>
+    <test started-at="2023-12-22T14:00:39 IST" name="Default test" finished-at="2023-12-22T14:01:43 IST" duration-ms="64280">
+      <class name="com.testscripts.MobileCalcTestScript">
+        <test-method is-config="true" signature="configuration()[pri:0, instance:com.testscripts.MobileCalcTestScript@7c3fdb62]" started-at="2023-12-22T14:00:39 IST" name="configuration" finished-at="2023-12-22T14:00:50 IST" duration-ms="11263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configuration -->
+        <test-method signature="addition()[pri:1, instance:com.testscripts.MobileCalcTestScript@7c3fdb62]" started-at="2023-12-22T14:00:50 IST" name="addition" finished-at="2023-12-22T14:01:24 IST" duration-ms="34085" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addition -->
+        <test-method signature="multiplication()[pri:2, instance:com.testscripts.MobileCalcTestScript@7c3fdb62]" started-at="2023-12-22T14:01:24 IST" name="multiplication" finished-at="2023-12-22T14:01:43 IST" duration-ms="18903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiplication -->
+      </class> <!-- com.testscripts.MobileCalcTestScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
