@@ -31,9 +31,9 @@ public class BaseClass {
 
 		// for virtual device configuration to native app (Calculator)
 		capabilities.setCapability(MobileCapabilityType.AUTOMATION_NAME, "Appium");
-		capabilities.setCapability(MobileCapabilityType.PLATFORM_VERSION, "13");
-		// capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "emulator-5554");
-		capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "96445020050005U");
+		capabilities.setCapability(MobileCapabilityType.PLATFORM_VERSION, "10");
+		capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "emulator-5554");
+		//capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "96445020050005U");
 		//capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "10BCAC1BVU000G4");
 		capabilities.setCapability("platformName", "Android");
 		//capabilities.setCapability(MobileCapabilityType.PLATFORM_NAME, "Android");
